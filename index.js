@@ -8,3 +8,4 @@ console.log(welcomeMessage)
 //solution below also has desired result.
 // const currentUser = 'Taxi Driver';
 // const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
+// console.log(welcomeMessage)
